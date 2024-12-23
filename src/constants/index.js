@@ -268,7 +268,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've had the pleasure of knowing Shruti on both a personal and professional level, and I can confidently say that He is one of the most talented person I've ever met.",
+      "I've had the pleasure of knowing Shruti on both a personal and professional level, and I can confidently say that She is one of the most talented person I've ever met.",
     name: "Anshul Pandya",
     designation: "SDE",
     company: "Deepspatial",
